@@ -1,4 +1,7 @@
+## About Me
+I am a computer science graduate student with experience in AI evaluation, data labeling, and machine learning research.
+
 📫 **How to reach me:**
 
-- **Email**: 3413088901@qq.com(没有微信看的及时)
+- **Email**: shangyin359@gmail.com  3413088901@qq.com
 - [WeChat (微信)]: (https://github.com/XiaoBeiCoder/readme/blob/main/WeChat.jpg) *(请务必注明姓名、单位、来意)*。
